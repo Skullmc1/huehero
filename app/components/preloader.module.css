@@ -1,0 +1,10 @@
+.gooey {
+  filter: url("#gooey");
+}
+
+.dot {
+  background: black;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+}
